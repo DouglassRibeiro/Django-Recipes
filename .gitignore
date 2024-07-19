@@ -2,3 +2,4 @@ venv
 *.bak
 htmlcov/
 .cache
+dist/
