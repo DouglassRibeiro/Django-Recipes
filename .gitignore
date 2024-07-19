@@ -3,3 +3,4 @@ venv
 htmlcov/
 .cache
 dist/
+*recipes/
