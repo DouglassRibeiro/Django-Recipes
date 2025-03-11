@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\dougl\OneDrive\Documentos\Udemy\Curso de Django Web Framework e Django Rest Framework\curso-jango-projeto1\venv"
+VIRTUAL_ENV="C:\Users\dougl\OneDrive\Documentos\Udemy\Curso de Django Web Framework e Django Rest Framework\curso-jango-project1\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
