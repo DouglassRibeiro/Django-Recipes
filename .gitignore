@@ -2,3 +2,9 @@
 htmlcov/
 .cache
 dist/
+venv
+*venv
+.venv
+*.venv
+Lib
+pytest.ini
