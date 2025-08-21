@@ -2,6 +2,7 @@
 htmlcov/
 .cache
 dist/
+venv/
 venv
 *venv
 .venv
