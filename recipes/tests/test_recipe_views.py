@@ -6,7 +6,7 @@ from .test_recipe_base import Recipe, RecipeTestBase
 
 class RecipeViewsTest(RecipeTestBase):
     def test_recipe_home_view_function_is_correct(self):
-        view = resolve(reverse('recipes:home'))
+        view = resolve(reverse('recipes:home')) 
         self.assertIs(view.func, views.home)
 
     def test_recipe_home_view_returns_status_code_200_OK(self):
